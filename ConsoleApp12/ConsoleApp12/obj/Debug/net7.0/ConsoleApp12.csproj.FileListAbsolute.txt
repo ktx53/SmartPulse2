@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net7.0\ConsoleApp12.exe
+C:\Users\admin\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net7.0\ConsoleApp12.deps.json
+C:\Users\admin\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net7.0\ConsoleApp12.runtimeconfig.json
+C:\Users\admin\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net7.0\ConsoleApp12.dll
+C:\Users\admin\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net7.0\ConsoleApp12.pdb
+C:\Users\admin\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.AssemblyInfo.cs
+C:\Users\admin\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.csproj.CopyComplete
+C:\Users\admin\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.dll
+C:\Users\admin\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net7.0\refint\ConsoleApp12.dll
+C:\Users\admin\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.pdb
+C:\Users\admin\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.genruntimeconfig.cache
+C:\Users\admin\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net7.0\ref\ConsoleApp12.dll
